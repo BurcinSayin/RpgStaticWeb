@@ -1,0 +1,2 @@
+# RpgStaticWeb
+StaticRpgPages
