@@ -1,5 +1,5 @@
 # RpgStaticWeb
-StaticRpgPages
+StaticRpgPages 2
 
 # Pages
 https://burcinsayin.github.io/RpgStaticWeb/fiefs_of_the_kingdom_of_basir.htm
